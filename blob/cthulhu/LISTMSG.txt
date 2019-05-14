@@ -1,0 +1,8 @@
+<b>Configuration name: cthulhu</b>	
+Saved at Tue 14 May 2019 04:08:31 AM EDT
+
+Openbox theme:  BL-Cthulhu\n
+GTK theme:  BL-Cthulhu;  Icon Theme: BL-Moonlight\n
+Background set with nitrogen:\n/home/roy/Pictures/wallpapers/cthulhu.png;\n
+Running Conkys:\t\n\tconky -c /home/roy/.config/conky/conky.conf\n\tconky -c /home/roy/.config/conky/conky.conf\n
+Running Tint2s:\t\n\t/home/roy/.config/tint2/tint2rc-hhh-left.tint2rc\n
