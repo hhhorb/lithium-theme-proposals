@@ -1,0 +1,7 @@
+<b>Configuration name: BL-Ski</b>	
+Saved at Fri May 17 23:57:01 EDT 2019
+
+Openbox theme:  BL-Ski\n
+GTK theme:  BL-Ski;  Icon Theme: BL-Dystopia\n
+Background set with nitrogen:\n/home/facehugger/Pictures/wallpapers/ski.jpg;\n
+Running Tint2s:\t\n\t/home/facehugger/.config/tint2/tint2rc-hhh-left.tint2rc\n

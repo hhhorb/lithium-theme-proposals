@@ -1,0 +1,8 @@
+<b>Configuration name: BL-Li</b>	
+Saved at Wed 29 May 2019 03:31:48 PM EDT
+
+Openbox theme:  BL-Li\n
+GTK theme:  BL-Li;  Icon Theme: BL-Moonlight\n
+Background set with nitrogen:\n/home/facehugger/Pictures/wallpapers/Li.png;\n
+Running Conkys:\t\n\tDefault Conky\n
+Running Tint2s:\t\n\t/home/facehugger/.config/tint2/tint2rc-hhh-left.tint2rc\n
